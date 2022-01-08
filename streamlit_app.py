@@ -9,3 +9,4 @@ with st.form("app_form"):
   submitted = st.form_submit_button("Submit")
   if submitted:
     st.write("You pressed submit!")
+    st.image(image,https://http.cat/[status_code].jpg)
